@@ -1,0 +1,49 @@
+SAMPLE OUTPUT
+
+===== STUDENT RESULT MANAGEMENT SYSTEM =====
+1. Add Student Record
+2. Display All Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Show Topper
+7. Generate Report
+8. Exit
+Enter your choice: 1
+
+Enter Roll Number: 101
+Enter Student Name: Rahul Kumar
+Enter marks for 5 subjects (out of 100):
+Subject 1: 85
+Subject 2: 78
+Subject 3: 92
+Subject 4: 88
+Subject 5: 90
+Student record added successfully.
+
+Enter your choice: 1
+Enter Roll Number: 102
+Enter Student Name: Priya Sharma
+Enter marks for 5 subjects (out of 100):
+Subject 1: 95
+Subject 2: 91
+Subject 3: 94
+Subject 4: 96
+Subject 5: 93
+Student record added successfully.
+
+Enter your choice: 7
+
+================ STUDENT RESULT REPORT ================
+Roll     Name                 Total      Average
+--------------------------------------------------------
+101      Rahul Kumar          433.00     86.60
+102      Priya Sharma         469.00     93.80
+--------------------------------------------------------
+Number of Students : 2
+Class Average      : 90.20%
+Topper             : Priya Sharma (Roll No: 102)
+========================================================
+
+Enter your choice: 8
+Thank you for using the system.
